@@ -1,10 +1,10 @@
-# CarNanny
+# Car Nanny
 
 Car Nanny is an app that allows you to quickly and easily save, load and share your vehicle location.
 
 ## How does Car Nanny work?
 
-Simply press the button to save the location and press the button again to load the location. Simple as that!
+Simply press the button to save the location and press the button again to load the location. Car Nanny works as simply as that!
 
 Android phone? Download the app on Google Play <a href="https://play.google.com/store/apps/details?id=com.carnanny.app">here</a>
 
